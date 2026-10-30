@@ -1,3 +1,9 @@
+# GitHub Copilot and Codespaces Learning Exercise
+
+This repository is based on the GitHub Skills **Code with GitHub Copilot** tutorial. It is kept as a learning resource for using VS Code, GitHub Codespaces, and AI-assisted coding. The course instructions below are provided by the original tutorial; they should not be mistaken for a custom application I independently developed or for completed UAT Boards evidence.
+
+---
+
 <header>
 
 <!--
